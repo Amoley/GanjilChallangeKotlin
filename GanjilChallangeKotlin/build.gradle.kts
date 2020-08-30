@@ -3,7 +3,7 @@ plugins {
     kotlin("jvm") version "1.3.72"
 }
 
-group = "com.stematel.setyonugroho"
+group = "com.stematel.muhammadroyanamoley"
 version = "1.0-SNAPSHOT"
 
 repositories {
